@@ -1,4 +1,4 @@
-**##Flight Price Prediction — Feature Engineering**
+**Flight Price Prediction — Feature Engineering**
 **Overview**
 A project exploring and preparing the Kaggle Flight Price Prediction dataset for modeling flight ticket prices using feature engineering.
 
